@@ -15,11 +15,6 @@ A simple text-based Python game where the player must find a way to escape from 
 - 🔁 Infinite loop until correct actions are taken
 
 ---
-## ▶️ How to Play
-
-Run the game using Python:
-
----
 
 🎮 Part 2 — Corridor Escape
 In this part of the game, the player finds themselves in a corridor with multiple possible escape routes. The goal is to escape within 5 steps before getting caught by a monster.
